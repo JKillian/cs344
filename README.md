@@ -1,7 +1,7 @@
 cs344
 =====
 
-Introduction to Parallel Programming class code
+Introduction to Parallel Programming Activities
 
 =====
-Progress: Completed Lesson 1 assignments
+Progress: Completed Lesson 1 & 2 assignments 
